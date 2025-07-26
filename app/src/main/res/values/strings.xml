@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cutwa</string>
+    
+    <!-- Home Screen -->
+    <string name="quick_start">Quick Start</string>
+    <string name="templates">Templates</string>
+    <string name="recent_projects">Recent Projects</string>
+    <string name="import_video">Import Video</string>
+    <string name="record_video">Record Video</string>
+    <string name="new_project">New Project</string>
+    
+    <!-- Editor Screen -->
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="export">Export</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="cut">Cut</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="delete">Delete</string>
+    <string name="split">Split</string>
+    <string name="trim">Trim</string>
+    
+    <!-- Tools -->
+    <string name="effects">Effects</string>
+    <string name="filters">Filters</string>
+    <string name="text">Text</string>
+    <string name="stickers">Stickers</string>
+    <string name="audio">Audio</string>
+    <string name="transitions">Transitions</string>
+    <string name="speed">Speed</string>
+    
+    <!-- Export -->
+    <string name="exporting_video">Exporting Video</string>
+    <string name="export_progress">Export Progress</string>
+    <string name="export_complete">Export Complete</string>
+    <string name="export_failed">Export Failed</string>
+    
+    <!-- Projects -->
+    <string name="projects">Projects</string>
+    <string name="search_projects">Search projects...</string>
+    <string name="no_projects">No Projects Yet</string>
+    <string name="create_first_project">Create your first video project</string>
+    <string name="delete_project">Delete Project</string>
+    <string name="delete_project_confirmation">Are you sure you want to delete this project? This action cannot be undone.</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    
+    <!-- Permissions -->
+    <string name="permission_camera">Camera permission is required to record videos</string>
+    <string name="permission_storage">Storage permission is required to access your videos</string>
+    <string name="permission_microphone">Microphone permission is required to record audio</string>
+</resources>
