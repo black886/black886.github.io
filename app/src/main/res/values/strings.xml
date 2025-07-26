@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cutwa</string>
+    
+    <!-- Main Screen -->
+    <string name="import_video">Import Video</string>
+    <string name="templates">Templates</string>
+    <string name="create_new">Create New</string>
+    <string name="recent_projects">Recent Projects</string>
+    <string name="no_projects_yet">No projects yet</string>
+    <string name="create_first_project">Create your first video project by importing a video or using a template</string>
+    
+    <!-- Video Editor -->
+    <string name="video_editor">Video Editor</string>
+    <string name="cut">Cut</string>
+    <string name="filters">Filters</string>
+    <string name="text">Text</string>
+    <string name="stickers">Stickers</string>
+    <string name="speed">Speed</string>
+    <string name="audio">Audio</string>
+    <string name="transitions">Transitions</string>
+    <string name="effects">Effects</string>
+    <string name="export">Export</string>
+    <string name="export_video">Export Video</string>
+    <string name="resolution">Resolution</string>
+    <string name="quality">Quality</string>
+    <string name="format">Format</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    
+    <!-- Camera -->
+    <string name="camera">Camera</string>
+    <string name="record">Record</string>
+    <string name="gallery">Gallery</string>
+    <string name="flip_camera">Flip Camera</string>
+    <string name="flash">Flash</string>
+    <string name="timer">Timer</string>
+    <string name="beauty">Beauty</string>
+    <string name="grid">Grid</string>
+    
+    <!-- Templates -->
+    <string name="all">All</string>
+    <string name="social_media">Social Media</string>
+    <string name="business">Business</string>
+    <string name="travel">Travel</string>
+    <string name="food">Food</string>
+    <string name="fashion">Fashion</string>
+    <string name="music">Music</string>
+    
+    <!-- Permissions -->
+    <string name="permissions_required">Permissions Required</string>
+    <string name="permissions_message">This app needs camera, microphone, and storage permissions to function properly.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="settings">Settings</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+</resources>
